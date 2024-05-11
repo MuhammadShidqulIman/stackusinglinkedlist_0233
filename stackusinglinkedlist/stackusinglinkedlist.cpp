@@ -14,6 +14,8 @@ public:
 
 // stack class
 class stack {
+private:
+    Node* top; // pointer to the top node of the stack
 };
 
 int main()
